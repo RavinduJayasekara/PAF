@@ -72,5 +72,5 @@ public class docMn {
 		String output = DoctorMObj.deleteDoctorM(docId);
 		return output;
 	}
-
+//finish
 }
